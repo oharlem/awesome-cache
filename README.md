@@ -8,6 +8,7 @@ A curated list of awesome cache servers, libraries, software and resources.
 *General*
 * [Redis](https://redis.io/) - Redis is an in-memory database that persists on disk.
 * [Memcached](https://memcached.org/) - A distributed memory object caching system.
+* [Ehcache](https://github.com/ehcache/ehcache3) - It's the most widely-used Java-based cache because it's robust, proven, full-featured, and integrates with other popular libraries and frameworks.
 
 *Web*
 * [Varnish Cache](https://varnish-cache.org/) - Varnish Cache is a web application accelerator also known as a caching HTTP reverse proxy.
