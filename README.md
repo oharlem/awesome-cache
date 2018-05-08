@@ -13,6 +13,7 @@ A curated list of awesome cache servers, libraries, software and resources.
 *Proxy Caches*
 * [Varnish Cache](https://varnish-cache.org/) - Varnish Cache is a web application accelerator also known as a caching HTTP reverse proxy.
 * [Squid](http://www.squid-cache.org/) - Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more.
+* [nuster](https://github.com/jiangwenyuan/nuster) - Nuster, a high performance caching proxy server based on HAProxy.
 
 
 ## In-memory libraries (by language)
